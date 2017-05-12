@@ -1,0 +1,15 @@
+{
+  "name": "write-file-async",
+  "version": "0.0.0",
+  "description": "Typed async writeFile function",
+  "main": "index.js",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.46.0"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "typeable-promisify": "^1.0.1"
+  }
+}
